@@ -1,2 +1,2 @@
-# Proyecto "Adpta +cotas"
+# Proyecto "Adopta +cotas"
 Integrantes: Roberto Martinez y Valentino Hernandez 
